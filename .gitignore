@@ -1,0 +1,63 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.bak
+
+# Virtual environment directories
+.venv/
+env/
+.env/
+
+# FastAPI specific
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# IDE files (adjust based on your IDE)
+.vscode/
+.idea/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.cache/
+
+# Coverage reports
+.coverage
+.coverage.*
+
+# MyPy cache
+.mypy_cache/
+
+# Pylint report
+pylint-report.txt
+
+# Bandit report
+bandit-report.txt
+
+# Docker file
+Dockerfile
+
+# Docker-compose
+docker-compose.yml
+
+# .env file for sensitive data
+.env
+
+# SQLite database files (if using SQLite)
+*.sqlite3
+
+# PyInstaller
+*.spec
+
+# VS Code settings
+.vscode/
+
+# IPython history
+.ipython/
